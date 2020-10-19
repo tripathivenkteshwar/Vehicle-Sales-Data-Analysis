@@ -26,3 +26,13 @@ After loading the data, I needed to merge the data but some data file need to ha
      * Filled nan value with most frequent colour of perticular vehicle class
 *	Parsed rating out of company text 
 *	Made a new column for manufacturing month and manufacturing year by Parsing makeYear
+
+
+## EDA
+I looked at the distributions of the data and the value counts for the various categorical variables.
+
+![alt text](https://github.com/tripathivenkteshwar/Vehicle-Sales-Data-Analysis/blob/main/img/Capture.JPG)
+![alt text](https://github.com/tripathivenkteshwar/Vehicle-Sales-Data-Analysis/blob/main/img/disVehicleClass.JPG)
+![alt text](https://github.com/tripathivenkteshwar/Vehicle-Sales-Data-Analysis/blob/main/img/distriManufac.JPG)
+![alt text](https://github.com/tripathivenkteshwar/Vehicle-Sales-Data-Analysis/blob/main/img/distriSeat.JPG)
+![alt text](https://github.com/tripathivenkteshwar/Vehicle-Sales-Data-Analysis/blob/main/img/distributionAge.JPG)
